@@ -33,7 +33,7 @@ The graph below shows the model’s prediction results using the testing dataset
 
 - The **cyan triangles** represent the original test values (actual student marks).
 - The **red line** represents the predicted values from the linear regression model.
-- The photo above shows the actual vs predicted results and demonstrates the effectiveness of the model on unseen (testing) data.
+- The photo above shows the actual vs predicted results and demonstrates the effectiveness of the model on testing data.
 
 
 
